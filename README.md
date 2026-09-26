@@ -255,4 +255,4 @@ This repository serves as the official landing page for Adobe AIR. The software 
 **Get the most recent version of Adobe AIR today!**
 
 ---
-**Last updated:** 2026-09-26 19:44:06 UTC
+**Last updated:** 2026-09-26 22:35:21 UTC
